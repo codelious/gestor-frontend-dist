@@ -1,0 +1,121 @@
+{
+  "configVersion": 1,
+  "index": "/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/1.3f912bff57adff21b9b3.js",
+        "/10.c95dc9a70a5fe7fcde69.js",
+        "/11.5a180d13887f45e37e5e.js",
+        "/12.064a5c0f1452a95aea52.js",
+        "/13.3a2ab4678760553ba3b4.js",
+        "/14.c265eb52e7138854cc90.js",
+        "/15.aa36ab53c29196627241.js",
+        "/16.057d1ff58afc8d6d535d.js",
+        "/17.417603014be635f0ce6e.js",
+        "/18.d48e69de4afca190d75f.js",
+        "/19.0674ed802b794efe8cb4.js",
+        "/2.5c4c0df8e5df9b463b02.js",
+        "/3.052c966580a175b0dd02.js",
+        "/4.b5d7f90764c87929dbd3.js",
+        "/5.75b59cc37354064e7986.js",
+        "/6.088c710b130adde29c25.js",
+        "/7.a83acc11dd5b647486ab.js",
+        "/8.9ad2fe1ef8af3dfc0361.js",
+        "/9.12e1922dec50f7148147.js",
+        "/common.beb60c48937844661523.js",
+        "/favicon.ico",
+        "/index.html",
+        "/main.55c2a50df42c64049562.js",
+        "/polyfills.3823b9bdb784f831f922.js",
+        "/runtime.7b1a3cc702d94f876d52.js",
+        "/scripts.e62dfdec098850723b3f.js",
+        "/styles.d53f3da7e8a7a3bb8400.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/assets/gestor-logo-app-dark.png",
+        "/assets/gestor-logo-app-light.png",
+        "/assets/logo-gestor-100x265.png",
+        "/assets/logo-gestor-119x40.png",
+        "/assets/logo-gestor-200x67.png",
+        "/assets/logo-gestor-512.png",
+        "/assets/logo-gestor-dark-45.png",
+        "/assets/logo-gestor-dark-50.png",
+        "/assets/logo-gestor-dark.png",
+        "/assets/logo-gestor-icono.png",
+        "/assets/logo-gestor-light.png",
+        "/assets/logo-gestor.png"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/1.3f912bff57adff21b9b3.js": "bd3e2655bec1f0598990bfba697a65b703267db6",
+    "/10.c95dc9a70a5fe7fcde69.js": "a4029d9508e65a7ae44147a5d00dee3a4460d895",
+    "/11.5a180d13887f45e37e5e.js": "e6d15ead459b9dbad68127ecb156429c1e0a0bfa",
+    "/12.064a5c0f1452a95aea52.js": "da8ab29c4c79593df763b4320d41a48c0bf26b81",
+    "/13.3a2ab4678760553ba3b4.js": "84fe5a8bf1c4049ea5c80d9ec3d4d6d27c7f5ffe",
+    "/14.c265eb52e7138854cc90.js": "c03ec65cdf2a3ea12c99b1efc30e24cf535a6a28",
+    "/15.aa36ab53c29196627241.js": "65694b59164ff435e271fb25a643ca23e14618f1",
+    "/16.057d1ff58afc8d6d535d.js": "3fd6f6b794fea2dd64e6ab5f90863e3c70b689a2",
+    "/17.417603014be635f0ce6e.js": "e1980cc5a385621046ad55e00f828f4b46a45e85",
+    "/18.d48e69de4afca190d75f.js": "aa4cf3c500b80ad587375a7257ca69d79d569853",
+    "/19.0674ed802b794efe8cb4.js": "fc7990ddfef9c2bf4bb923a6db29df2e19b954d8",
+    "/2.5c4c0df8e5df9b463b02.js": "e908cd7fe4bbc2e79c3ff7689c65ee07b2a5333b",
+    "/3.052c966580a175b0dd02.js": "871b0fe4e2fdf85e829b0354b6ce0752702d1966",
+    "/4.b5d7f90764c87929dbd3.js": "67abb68ce4ca7cebafbca719bac04cff9ce00e74",
+    "/5.75b59cc37354064e7986.js": "a1709cc9c3c48f4695e7b2c81fced4c2184b6a5f",
+    "/6.088c710b130adde29c25.js": "64617708ea281e8251bd1628d3298e5b6c793c08",
+    "/7.a83acc11dd5b647486ab.js": "e9818a88b3b2e5bf86b8d5f21cd733452e623d76",
+    "/8.9ad2fe1ef8af3dfc0361.js": "f16b5a4c2beb32a45dd7bd6482a89d1d604c7b53",
+    "/9.12e1922dec50f7148147.js": "eda609a29abcd547b09114b7fcccbaa6467e4782",
+    "/assets/gestor-logo-app-dark.png": "e38849d08490ef5ee38c3b6bc62addfd621c088a",
+    "/assets/gestor-logo-app-light.png": "2f0dfbee602b76c75a30550275c569a872357b46",
+    "/assets/logo-gestor-100x265.png": "6628a1c2771d9f650a74f8cf7054aa440717e1f2",
+    "/assets/logo-gestor-119x40.png": "f463b587bbb7243fa93ed858ae35f66588c8de6b",
+    "/assets/logo-gestor-200x67.png": "9382ea54f28faf104038c7886cf164a148ce60cf",
+    "/assets/logo-gestor-512.png": "fc9e243da251780b2a71a5b8880618d573b4bf15",
+    "/assets/logo-gestor-dark-45.png": "71fb4ec0d1213003056c2b0fe9df5eda27bcc50c",
+    "/assets/logo-gestor-dark-50.png": "73c68de1fac3bce970141d8d6adfbf260bb9847e",
+    "/assets/logo-gestor-dark.png": "b10974e2ad776368b615cd5829992be88bb20540",
+    "/assets/logo-gestor-icono.png": "e47f4dd05e40a5ffa03be6b7cadd2a88a3a4a320",
+    "/assets/logo-gestor-light.png": "4db6cb07d31adb932bf577dfe5402477e2570e33",
+    "/assets/logo-gestor.png": "c6a384b1dd7b8f8389631663c88929c665c1da2b",
+    "/common.beb60c48937844661523.js": "64b0c37e28921a3d6489c5d0c493a1db4c06fe3c",
+    "/favicon.ico": "fa9fe469384fb405f42d249f02d87592c13e7960",
+    "/index.html": "32f559c7c9c38d81c918ceb1c74a0ea304c1c072",
+    "/main.55c2a50df42c64049562.js": "459ba0b25073dfae402e6c4aae7160b38628c258",
+    "/polyfills.3823b9bdb784f831f922.js": "05657871cfcac1949782ba27aca2c1ae2c8a1b85",
+    "/runtime.7b1a3cc702d94f876d52.js": "e1d0f4932cf1d6bc99f6e8500af9cb2e97a90bee",
+    "/scripts.e62dfdec098850723b3f.js": "b340a28d5abe49479d6af7e9cd6de6efd3cb74c1",
+    "/styles.d53f3da7e8a7a3bb8400.css": "8e7f41aa3733b50e111be72119ea6311222e2a00"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
